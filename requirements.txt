@@ -1,0 +1,6 @@
+aiogram>=3.13,<4
+aiohttp>=3.9
+asyncpg>=0.30
+defusedxml>=0.7
+fastapi>=0.115
+python-dotenv>=1.0
